@@ -13,3 +13,10 @@ This lab uses the IEEE Standard for DevOps, with a focus on the Decision Managem
 3.	Identify the types of solutions that can be **pre-authorised** and implemented in the form of automated gates for low-risk changes.
 4.	Describe the **minimum set of evidence** required to support decision-making and form effective feedback loops for continuous improvement.
 
+### Note: IEEE as engeniring standart
+
+**IEEE 2675-2021 (Standard for DevOps: Building Reliable and Secure Systems)** is a fundamental international standard that formalises DevOps as a holistic engineering discipline. The need for its development arose due to a critical discrepancy between the rapid development of Agile practices and the need to ensure high reliability in regulated industries. Until its introduction in 2021, **the term 'DevOps'** was often interpreted subjectively, making it difficult to certify and audit processes in large organisations. The standard is the result of many years of cooperation between **IEEE** and **ISO** experts in order to adapt the classic standards of the software development life cycle to the conditions of continuous integration and deployment.
+
+The scientific and practical value of this standard lies in the clear definition of requirements for the processes of synthesis and verification of systems, where special emphasis is placed on the 'left-shift' approach. By implementing **DevSecOps** early quality control and security mechanisms, the standard provides conceptual integrity between iterative development and classical systems engineering. This allows organisations to transform informal arrangements into verified processes that provide full traceability for the management of the development process
+
+The use of IEEE 2675-2021 (IEEE Standard for DevOps) in this lab work is due to its transition from purely cultural aspects of DevOps to rigorous engineering requirements.
